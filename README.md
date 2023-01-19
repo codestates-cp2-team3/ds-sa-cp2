@@ -27,4 +27,4 @@
     - MAE, RMSE를 사용
     - 우선순위는 RMSE가 낮은 모델<br>
     (참고자료)
-    - https://sungkee-book.tistory.com/11
+        - https://sungkee-book.tistory.com/11
