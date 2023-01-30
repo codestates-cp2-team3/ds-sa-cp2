@@ -1,4 +1,4 @@
-# 모델링 내역
+#모델링 내역
 - model_CB : Contents Based(CB)
   - 유사도 기반 추천 로직
 - model_CF_KNN_item : Collaborative Filtering(CF)
